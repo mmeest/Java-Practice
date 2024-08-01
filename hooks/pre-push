@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # List of protected branch patterns
-protected_patterns=("*exercise-solutions" "master")
+protected_patterns=("exercise-solutions" "master")
 
 # Function to check if the branch name matches any pattern
 branch_matches() {
