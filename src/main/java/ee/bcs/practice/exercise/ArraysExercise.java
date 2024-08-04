@@ -3,39 +3,23 @@ package ee.bcs.practice.exercise;
 public class ArraysExercise {
 
     public static void main(String[] args) {
-        // Create an example array
-        int[] numbers = {1, 2, 3, 4, 5};
+        // Exercise 1: Create and Print Array
+        // TODO: Create an array of integers with 5 elements: 10, 20, 30, 40, 50
+        // TODO: Print each element of the array to the console
 
-        // Exercise 1: Print all elements in an array
-        printArray(numbers);
+        // Exercise 2: Array Length
+        // TODO: Create an array of strings with 3 elements: "apple", "banana", "cherry"
+        // TODO: Print "banana" from the array to the console
+        // TODO: Print the length of the array to the console
 
-        // Exercise 2: Add an element to the array
-        addElement(numbers, 6);
+        // Exercise 3: Access Array Elements
+        // TODO: Create an array of doubles with 4 elements: 1.1, 2.2, 3.3, 4.4
+        // TODO: Print the second and fourth elements of the array to the console
 
-        // Exercise 3: Delete an element from the array
-        deleteElement(numbers, 3);
-
-        // Exercise 4: Get the value of a specific element
-        getElement(numbers, 2);
-    }
-
-    // Method to print all elements in an array
-    public static void printArray(int[] array) {
-        // Implement the method to print each element in the array
-    }
-
-    // Method to add an element to the array
-    public static void addElement(int[] array, int element) {
-        // Implement the method to add an element to the array and return the new array
-    }
-
-    // Method to delete an element from the array
-    public static void deleteElement(int[] array, int index) {
-        // Implement the method to delete an element from the array and return the new array
-    }
-
-    // Method to get the value of a specific element in the array
-    public static void getElement(int[] array, int index) {
-        // Implement the method to return the value at the given index
+        // Exercise 4: Two-Dimensional Array
+        // TODO: Create a 2D array of integers with 2 rows and 3 columns
+        // Initialize it with the values: {{1, 2, 3}, {4, 5, 6}}
+        // TODO: Print the element at the first row and second column
+        // TODO: Print the element at the second row and third column
     }
 }
