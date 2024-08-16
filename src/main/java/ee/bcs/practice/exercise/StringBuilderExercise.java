@@ -21,5 +21,8 @@ public class StringBuilderExercise {
         // Exercise 6: Convert to String
 
 
+        // Exercise 7: Build and Concatenate Strings Using StringBuilder
+
+
     }
 }
