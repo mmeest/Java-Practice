@@ -1,6 +1,7 @@
 package ee.bcs.practice.exercise;
 
 public class IfConditionalStatementExercise {
+
     public static void main(String[] args) {
 
         // Exercise 1: Check if a number is positive

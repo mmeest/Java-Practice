@@ -1,6 +1,7 @@
 package ee.bcs.practice.exercise;
 
 public class ArraysExercise {
+
     public static void main(String[] args) {
         // Exercise 1: Create and Print Array
 
