@@ -9,10 +9,7 @@ public class ForLoopWithCollectionExercise {
         // Exercise 2: Sum of Integer Array Elements
 
 
-        // Exercise 3: Find Maximum Element in Array
-
-
-        // Exercise 4: Iterate Over and Modify Array Elements
+        // Exercise 3: Iterate Over and Modify Array Elements
 
 
     }
