@@ -37,6 +37,12 @@ public class StringManipulationExercise {
         // Exercise 11: Using \n for Newlines
 
 
+        // Exercise 12: Use String Literals Directly
+
+
+        // Exercise 13: Chaining String Methods
+
+
         // Run main method
 
     }
