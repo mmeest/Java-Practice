@@ -3,6 +3,7 @@ package ee.bcs.practice.exercise;
 public class StringBuilderExercise {
 
     public static void main(String[] args) {
+
         // Exercise 1: Create and Append
 
 
@@ -23,6 +24,8 @@ public class StringBuilderExercise {
 
         // Exercise 7: Build and Concatenate Strings Using StringBuilder
 
+
+        // Run main method
 
     }
 }

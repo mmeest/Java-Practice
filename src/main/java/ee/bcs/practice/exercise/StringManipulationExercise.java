@@ -3,6 +3,7 @@ package ee.bcs.practice.exercise;
 public class StringManipulationExercise {
 
     public static void main(String[] args) {
+
         // Exercise 1: Create and Print Strings
 
 
@@ -35,6 +36,8 @@ public class StringManipulationExercise {
 
         // Exercise 11: Using \n for Newlines
 
+
+        // Run main method
 
     }
 }

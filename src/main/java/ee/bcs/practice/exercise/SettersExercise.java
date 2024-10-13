@@ -13,5 +13,7 @@ public class SettersExercise {
         // Exercise 3: Use a getter to retrieve and print the name and age of the user
 
 
+        // Run main method
+
     }
 }

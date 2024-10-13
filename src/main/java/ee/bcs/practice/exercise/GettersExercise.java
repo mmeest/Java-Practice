@@ -13,5 +13,7 @@ public class GettersExercise {
         // Exercise 3: Create a Student class and access the grade using a getter
 
 
+        // Run main method
+
     }
 }

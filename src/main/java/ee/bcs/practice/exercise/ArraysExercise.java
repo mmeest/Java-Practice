@@ -3,6 +3,7 @@ package ee.bcs.practice.exercise;
 public class ArraysExercise {
 
     public static void main(String[] args) {
+
         // Exercise 1: Create and Print Array
 
 
@@ -14,6 +15,8 @@ public class ArraysExercise {
 
         // Exercise 4: Two-Dimensional Array
 
+
+        // Run main method
 
     }
 }

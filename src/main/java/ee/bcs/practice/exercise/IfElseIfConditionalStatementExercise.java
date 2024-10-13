@@ -3,6 +3,7 @@ package ee.bcs.practice.exercise;
 public class IfElseIfConditionalStatementExercise {
 
     public static void main(String[] args) {
+
         // Exercise 1: Check if a number is positive, negative, or zero
 
 
@@ -11,6 +12,8 @@ public class IfElseIfConditionalStatementExercise {
 
         // Exercise 3: Check the temperature range
 
+
+        // Run main method
 
     }
 }

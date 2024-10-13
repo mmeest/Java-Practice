@@ -3,6 +3,7 @@ package ee.bcs.practice.exercise;
 public class ForLoopWithCollectionExercise {
 
     public static void main(String[] args) {
+
         // Exercise 1: Iterate and Print Array Elements
 
 
@@ -11,6 +12,8 @@ public class ForLoopWithCollectionExercise {
 
         // Exercise 3: Iterate Over and Modify Array Elements
 
+
+        // Run main method
 
     }
 }

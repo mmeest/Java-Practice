@@ -3,6 +3,7 @@ package ee.bcs.practice.exercise;
 public class IfElseConditionalStatementExercise {
 
     public static void main(String[] args) {
+
         // Exercise 1: Check if a number is positive or negative
 
 
@@ -11,6 +12,8 @@ public class IfElseConditionalStatementExercise {
 
         // Exercise 3: Check if a person is a minor or an adult
 
+
+        // Run main method
 
     }
 }

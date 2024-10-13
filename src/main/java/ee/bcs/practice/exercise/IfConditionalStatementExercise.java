@@ -13,5 +13,7 @@ public class IfConditionalStatementExercise {
         // Exercise 3: Check if a person is eligible to vote
 
 
+        // Run main method
+
     }
 }

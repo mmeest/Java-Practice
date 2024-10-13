@@ -3,6 +3,7 @@ package ee.bcs.practice.exercise;
 public class ForLoopWithIndexExercise {
 
     public static void main(String[] args) {
+
         // Exercise 1: Print Numbers from 1 to 5
 
 
@@ -17,6 +18,8 @@ public class ForLoopWithIndexExercise {
 
         // Exercise 5: Iterating Over an Array
 
+
+        // Run main method
 
     }
 }

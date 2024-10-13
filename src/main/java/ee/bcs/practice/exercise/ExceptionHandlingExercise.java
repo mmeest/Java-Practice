@@ -4,28 +4,6 @@ import java.io.IOException;
 
 public class ExceptionHandlingExercise {
 
-    // Exercise 1: Implement Division
-    public int divideNumbers(int numerator, int denominator) {
-        return 0;
-    }
-
-    // Exercise 2: Array Index Validation
-    public int getArrayElement(int[] array, int index) {
-        return -1; // Return a default value or handle appropriately
-    }
-
-    // Exercise 3: Custom Exception Throwing
-    public void validateAge(int age) {
-    }
-
-    // Exercise 4: Resource Cleanup
-    public void handleResources() {
-    }
-
-    // Exercise 5: Method Declaration with Throws
-    public void readFile() throws IOException {
-    }
-
     public static void main(String[] args) {
         // Create an instance of the class
         ExceptionHandlingExercise exceptionHandlingExercise = new ExceptionHandlingExercise();
@@ -61,5 +39,27 @@ public class ExceptionHandlingExercise {
         } catch (IOException e) {
             System.out.println("Caught exception: " + e.getMessage()); // Should print error message
         }
+    }
+
+    // Exercise 1: Implement Division
+    public int divideNumbers(int numerator, int denominator) {
+        return 0;
+    }
+
+    // Exercise 2: Array Index Validation
+    public int getArrayElement(int[] array, int index) {
+        return -1; // Return a default value or handle appropriately
+    }
+
+    // Exercise 3: Custom Exception Throwing
+    public void validateAge(int age) {
+    }
+
+    // Exercise 4: Resource Cleanup
+    public void handleResources() {
+    }
+
+    // Exercise 5: Method Declaration with Throws
+    public void readFile() throws IOException {
     }
 }

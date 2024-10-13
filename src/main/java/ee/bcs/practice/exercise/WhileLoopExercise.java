@@ -3,6 +3,7 @@ package ee.bcs.practice.exercise;
 public class WhileLoopExercise {
 
     public static void main(String[] args) {
+
         // Exercise 1: Simple While Loop
 
 
@@ -14,6 +15,8 @@ public class WhileLoopExercise {
 
         // Exercise 4: Do/While Loop
 
+
+        // Run main method
 
     }
 }

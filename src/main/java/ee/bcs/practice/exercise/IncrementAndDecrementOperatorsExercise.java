@@ -3,6 +3,7 @@ package ee.bcs.practice.exercise;
 public class IncrementAndDecrementOperatorsExercise {
 
     public static void main(String[] args) {
+
         // Exercise 1: Pre-Increment
 
 
@@ -14,6 +15,8 @@ public class IncrementAndDecrementOperatorsExercise {
 
         // Exercise 4: Post-Decrement
 
+
+        // Run main method
 
     }
 }
