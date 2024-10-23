@@ -13,6 +13,9 @@ public class IfConditionalStatementExercise {
         // Exercise 3: Check if a person is eligible to vote
 
 
+        // Exercise 4: Use Not operator ( ! ) to print to console
+
+
         // Run main method
 
     }
