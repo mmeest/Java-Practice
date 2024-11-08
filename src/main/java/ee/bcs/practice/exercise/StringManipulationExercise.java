@@ -26,7 +26,7 @@ public class StringManipulationExercise {
 
         // Exercise 10: Compare Strings
 
-        // Exercise 11: Use \n for Newlines
+        // Exercise 11: Display Tic-Tac-Toe Board
 
         // Exercise 12: Use String Literals Directly
 
