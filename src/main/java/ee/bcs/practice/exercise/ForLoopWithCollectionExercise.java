@@ -6,11 +6,9 @@ public class ForLoopWithCollectionExercise {
 
         // Exercise 1: Iterate and Print Array Elements
 
+        // Exercise 2: Calculate Sum of Integer Array Elements
 
-        // Exercise 2: Sum of Integer Array Elements
-
-
-        // Exercise 3: Iterate Over and Modify Array Elements
+        // Exercise 3: Print Array Elements in Uppercase
 
 
         // Run main method
