@@ -4,20 +4,15 @@ public class ForLoopWithIndexExercise {
 
     public static void main(String[] args) {
 
-        // Exercise 1: Print Numbers from 1 to 5
+        // Exercise 1: Print Numbers from 1 to 5 Using a For Loop
 
+        // Exercise 2: Print Odd Numbers from 1 to 9
 
-        // Exercise 2: Print Even Numbers from 0 to 10
+        // Exercise 3: Print Numbers from 5 to 1 (Decrementing Loop)
 
+        // Exercise 4: Iterate Over an Array and Print Elements
 
-        // Exercise 3: Print Numbers from 5 to 1
-
-
-        // Exercise 4: Nested Loop to Print a 3x3 Grid
-
-
-        // Exercise 5: Iterating Over an Array
-
+        // Exercise 5: Create a Multiplication Table Using Nested Loops
 
         // Run main method
 
