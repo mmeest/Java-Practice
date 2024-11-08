@@ -13,9 +13,6 @@ public class WhileLoopExercise {
         // Exercise 3: Breaking a While Loop
 
 
-        // Exercise 4: Do/While Loop
-
-
         // Run main method
 
     }
