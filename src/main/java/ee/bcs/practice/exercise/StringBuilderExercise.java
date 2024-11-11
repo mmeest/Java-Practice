@@ -6,23 +6,17 @@ public class StringBuilderExercise {
 
         // Exercise 1: Create and Append
 
-
         // Exercise 2: Insert
-
 
         // Exercise 3: Delete
 
-
         // Exercise 4: Replace
-
 
         // Exercise 5: Reverse
 
-
         // Exercise 6: Convert to String
 
-
-        // Exercise 7: Build and Concatenate Strings Using StringBuilder
+        // Exercise 7: Build and Format Book Titles and Authors List
 
 
         // Run main method
