@@ -1,6 +1,6 @@
 # Git setup
 
-If you like for example push practice solution also to your own git repository as a parto of your portfolio.
+If you like for example push practice solution also to your own git repository as a part of your portfolio.
 
 1. Add second remote repository in terminal:
 
