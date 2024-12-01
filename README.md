@@ -235,3 +235,100 @@ By using UPPER_SNAKE_CASE for constants, lower_snake_case for file names, and ke
 
 Clean code. https://www.youtube.com/watch?v=eVpwH1SPl1g
 
+---
+
+# Data Types
+
+## Primitive Data Types
+
+A primitive data type specifies the size and type of variable values, and it has no additional methods.
+
+There are eight primitive data types in Java:
+
+byte:
+
+    Range: -128 to 127
+
+        Example: byte age = 25;
+
+short:
+
+    Range: -32,768 to 32,767
+
+        Example: short year = 2023;
+
+int:
+
+    Range: -2,147,483,648 to 2,147,483,647
+
+        Example: int salary = 2000;
+
+long:
+
+    Range: -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
+
+        Example: long distance = 9,876,543,210L;
+
+float:
+
+    Range: Approximately ±3.40282347 × 10^38 (7 decimal digits)
+
+        Example: float temperature = 36.6f;
+
+double:
+
+    Range: Approximately ±1.79769313486231570 × 10^308 (15 decimal digits)
+
+        Example: double pi = 3.14159;
+
+char:
+
+    Range: 0 to 65,535 (unsigned Unicode characters)
+
+        Example: char letter = 'A';
+
+boolean:
+
+    Values: true or false
+
+        Example: boolean isBlue = true;
+
+## Non-primitive
+
+Non-primitive data types in Java, also known as reference types, are more complex types that refer to objects and arrays. Unlike primitive data types, they are created by the programmer and can be used to store multiple values and more complex data structures. Non-primitive data types include Strings, Arrays, Classes, Interface, etc.
+
+    String:
+
+        Definition: A sequence of characters.
+
+        Example: String greeting = "Hello, World!";
+
+    Arrays:
+
+        Definition: A container object that holds a fixed number of values of a single type.
+
+        Example: int[] numbers = {1, 2, 3, 4, 5};
+
+    Classes:
+
+        Definition: Templates for creating objects and defining object data types and methods.
+
+        Example: class Car { String color; String model; }
+
+    Interfaces:
+
+        Definition: Abstract types that allow the specification of methods that classes must implement.
+
+        Example: interface Animal { void eat(); void sleep(); }
+
+## Primitive vs Non-primitive
+
+The main difference between primitive and non-primitive data types are:
+
+    Primitive types are predefined (already defined) in Java. Non-primitive types are created by the programmer and is not defined by Java (except for String).
+
+    Non-primitive types can be used to call methods to perform certain operations, while primitive types cannot.
+
+    A primitive type has always a value, while non-primitive types can be null.
+
+    A primitive type starts with a lowercase letter, while non-primitive types starts with an uppercase letter.
